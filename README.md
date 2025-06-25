@@ -25,6 +25,6 @@ Model achieved **[Write accuracy here]%** accuracy on validation data.
 
 ## 👨‍💻 Author
 [Ramy Tarek Rezk](https://github.com/ramyrezk22)
-## 🚀 جرّب المشروع على Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17rmoST0j64KGXMcWTPGt7l27KgTdrrFj?usp=sharing)
+
+
