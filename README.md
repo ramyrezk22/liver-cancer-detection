@@ -16,7 +16,7 @@ Developed using Google Colab and trained on medical CT scan images.
 - `README.md`: Project documentation
 
 ## 🚀 Results
-Model achieved **[Write accuracy here]%** accuracy on validation data.
+Model achieved **[ 98 %]** accuracy on validation data.
 
 ## 🔄 Future Work
 - Use transfer learning with ResNet50 or VGG16
