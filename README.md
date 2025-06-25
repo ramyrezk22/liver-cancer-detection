@@ -28,6 +28,6 @@ Model achieved **[ 98 %]** accuracy on validation data.
 
 ## 📸 Sample Result
 
-![Prediction Result](result.png)
+![Prediction Result](result.png.png)
 
 
