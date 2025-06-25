@@ -26,5 +26,8 @@ Model achieved **[ 98 %]** accuracy on validation data.
 ## 👨‍💻 Author
 [Ramy Tarek Rezk](https://github.com/ramyrezk22)
 
+## 📸 Sample Result
+
+![Prediction Result](result.png)
 
 
